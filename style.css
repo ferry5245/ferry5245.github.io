@@ -721,7 +721,9 @@ p{
     .container{
         min-height: 40vh;
     }
-    
+    #hero h1{
+        font-size: 2.5rem;
+    }
 }
 /* End of Media Query For Phone */
 
