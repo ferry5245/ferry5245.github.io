@@ -212,7 +212,7 @@ p{
 
 /*Hero Section*/
 #hero{
-    background-image: url(images/IMG-20190601-WA0145.jpg);
+    background-image: url("images/IMG-20190601-WA0145.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -347,7 +347,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(Images/section-background.jpg);
+    background-image: url("Images/section-background.jpg");
     background-size:cover;
     margin: 10px 5%;
     position: relative;
@@ -750,7 +750,7 @@ p{
         text-align: center;
     }
     #hero{
-        background-image: url(Images/IMG-20190602-WA0062.jpg);
+        background-image: url("Images/IMG-20190602-WA0062.jpg");
         position: relative;
     }
     #hero::after{
